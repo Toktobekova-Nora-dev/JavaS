@@ -1,4 +1,4 @@
-const loop= document.querySelector('.loop');
+const loop = document.querySelector('.loop');
 loop.addEventListener('click',()=>{
   loop.style.color = 'yellow'
   document.body.style.background = 'green'
